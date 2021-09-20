@@ -1,4 +1,4 @@
-/* 1. Write a C program to create an array by sorting N elements in it and then find 
+/* 1. Write a C program to create an array by inserting N elements in it and then find 
 largest, second largest, smallest and second smallest element from the array.*/
 
 #include <stdio.h>
